@@ -1,0 +1,7 @@
+# Project exclude paths
+/gui/target/
+/Laincher/target/
+/Lookup/target/
+/RobotState/target/
+/RobtoActions/target/
+/timer-service/target/
